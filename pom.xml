@@ -16,19 +16,13 @@
     </dependency>
   </dependencies>
   <build>
-      <plugins>
-       <plugin>
-   <groupId>org.wildfly.plugins</groupId>
-   <artifactId>wildfly-maven-plugin</artifactId>
-   <version>27.0.1.Final</version>
-   <configuration>
-      <hostname>localhost</hostname>
-      <port>9990</port>
-      <username>admin-w</username>
-      <password>abc123</password>
-   </configuration>
-   </plugin>
-   </plugins>
-    <finalName>java-hello-world</finalName>
+        <plugins>
+            <plugin>
+                <groupId>org.wildfly.plugins</groupId>
+                <artifactId>wildfly-maven-plugin</artifactId>
+                <version>4.1.0.Beta3</version>
+            </plugin>
+        </plugins>
+<finalName>java-hello-world</finalName>
   </build>
 </project>
