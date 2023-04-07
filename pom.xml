@@ -29,6 +29,6 @@
    </configuration>
             </plugin>
         </plugins>
-<finalName>java-hello-world</finalName>
+<finalName>docker-sb-trial</finalName>
   </build>
 </project>
