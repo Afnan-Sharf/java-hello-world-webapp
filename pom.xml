@@ -29,6 +29,6 @@
    </configuration>
             </plugin>
         </plugins>
-<finalName>docker-sb-trial</finalName>
+<finalName>java-hello-wrold</finalName>
   </build>
 </project>
