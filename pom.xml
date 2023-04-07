@@ -29,6 +29,6 @@
    </configuration>
             </plugin>
         </plugins>
-<finalName>java-hello-wrold</finalName>
+<finalName>java-hello-world</finalName>
   </build>
 </project>
